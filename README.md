@@ -18,3 +18,4 @@ VZXC VZCX VXZC VXCZ VCZX VCXZ
 Obs.: todas os conjuntos podem ser impressos na mesma linha. Neste exemplo, a quebra de linha foi utilizada apenas para melhor visualização.
 
 
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/stackblitz-starters-xqlbme)
