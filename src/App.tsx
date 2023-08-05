@@ -36,21 +36,6 @@ export default function App() {
       <h1>Desafio 02</h1>
 
       <div>
-        <p>
-          Crie uma função que entregue todas as ordenações possíveis de letras
-          de uma palavra.
-        </p>
-        <h3>Exemplo 01 </h3>
-        <p>Entrada: QWE</p>
-        <p>Saída:QWE QEW WQE WEQ EQW EWQ</p>
-        <h3>Exemplo 02</h3>
-        <p>Entrada: ZXCV</p>
-        <p>
-          Saída:ZXCV ZXVC ZCXV ZCVX ZVXC ZVCX XZCV XZVC XCZV XCVZ XVZC XVCZ CZXV
-          CZVX CXZV CXVZ CVZX CVXZ VZXC VZCX VXZC VXCZ VCZX VCXZ
-        </p>
-      </div>
-      <div>
         <div>
           <button onClick={() => permutations(chars1)}>Input1 = JKY</button>
         </div>
